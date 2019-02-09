@@ -5,3 +5,7 @@ Ans: When we initialize a git repository then it makes a .git folder which store
 2. How is the staging area different from the working directory and the repository? What values do you think it offers?
 
 Ans: Staging area is an area in which we can add one commit at a time. As we know that it is a good practice to make one commit per logical changes and for this we use staging area. We keeps on adding commits for every logical change and then we commit all those commits at once to our repository.
+
+3. How can you use staging area to make sure you have one commit per logical changes?
+
+Ans: We can add one commit per logical change in staging area and commit all those changes at once to the repository.
