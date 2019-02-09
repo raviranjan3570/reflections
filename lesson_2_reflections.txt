@@ -9,3 +9,7 @@ Ans: Staging area is an area in which we can add one commit at a time. As we kno
 3. How can you use staging area to make sure you have one commit per logical changes?
 
 Ans: We can add one commit per logical change in staging area and commit all those changes at once to the repository.
+
+4. What are some situations when branches would be helpful in keeping your history organised? How would branches help?
+
+Ans: We can use branches when we try to add new features or when we are working on someone's repository in that case we might wanna create a different branch so that our actions does not affect the work of other people or makes the software unusable.
