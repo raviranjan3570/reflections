@@ -13,3 +13,7 @@ Ans: We can add one commit per logical change in staging area and commit all tho
 4. What are some situations when branches would be helpful in keeping your history organised? How would branches help?
 
 Ans: We can use branches when we try to add new features or when we are working on someone's repository in that case we might wanna create a different branch so that our actions does not affect the work of other people or makes the software unusable.
+
+5. How do diagram help you visualize the branch structure?
+
+Ans: With the help of diagram we can check when a new branch is created, wheather it's for bug fix or for new feature.
