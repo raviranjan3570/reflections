@@ -17,3 +17,7 @@ Ans: We can use branches when we try to add new features or when we are working 
 5. How do diagram help you visualize the branch structure?
 
 Ans: With the help of diagram we can check when a new branch is created, wheather it's for bug fix or for new feature.
+
+6. What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+Ans: By merging two branches together we merge the changes that are introduced in individual branches. We represent it in the diagram because it helps us to create the structure of our repository i.e when a new branch is created or when we merge two branches together.
