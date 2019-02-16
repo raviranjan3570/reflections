@@ -21,3 +21,17 @@ Ans: With the help of diagram we can check when a new branch is created, wheathe
 6. What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 
 Ans: By merging two branches together we merge the changes that are introduced in individual branches. We represent it in the diagram because it helps us to create the structure of our repository i.e when a new branch is created or when we merge two branches together.
+
+7. What are the pros and cons of Git's automatic merging vs always doing merges manually?
+
+Ans: Git automatic merger
+
+Pros: It merges the changes automatically without the intervention of the user making it easier.
+
+Cons: Automatic merge may lead to merge conflict when two person edit the same part of the file.
+
+Manual merge
+
+Pros: It eliminate the chance of conflict.
+
+Cons: It may be a tedious work for the user.
