@@ -21,3 +21,7 @@ Ans: This comes in handy when we are working offline.
 Ans: Without using git or github we can collaborate by normally sharing our work or source code.
 Git would be easier.
 Sharing will be difficult as there is a chance of breaking the software completly.
+
+6. When would you want to make changes in a seperate branch rather than directly in master? What benefits does each approach have?
+
+Ans: When we are working for new feature or bug fixes trhen we would want to make changes in seperate branch so that our work does not affect the master branch or working software.
